@@ -10,7 +10,7 @@ const __dirname = path.dirname(__filename); // 'path' is used here
 
 // --- Konfigurasi Anda ---
 const YOUR_DOMAIN = 'https://togeviral.pages.dev'; // Ganti dengan domain Anda yang sebenarnya
-const API_KEY_NAME = '96230af2-6598-4401-9595-e4b082668d36'; // Ganti dengan GUID Anda
+const API_KEY_NAME = '701be01c-ffcf-4a11-bfc6-5e854b2f3ecf'; // Ganti dengan GUID Anda
 const API_KEY_LOCATION = `${YOUR_DOMAIN}/${API_KEY_NAME}.txt`;
 const INDEXNOW_ENDPOINT = 'https://api.indexnow.org/IndexNow';
 // --- Akhir Konfigurasi ---
