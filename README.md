@@ -1,2 +1,1 @@
-# togeviral
-togeviral
+# [togeviral](https://togeviral.pages.dev)
